@@ -118,7 +118,7 @@ body {
   list-style: none;
 }
 .dog-image-wrapper {
-  height: 50%;
+  height: 30vh;
 }
 .dog-image-wrapper img {
   width: 100%;
